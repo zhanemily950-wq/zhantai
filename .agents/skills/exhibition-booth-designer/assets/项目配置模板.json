@@ -1,0 +1,39 @@
+{
+  "project_name": "",
+  "version": "V01",
+  "event_name": "",
+  "venue": "",
+  "date": "",
+  "booth_number": "",
+  "industry": "",
+  "booth": {
+    "width_m": null,
+    "depth_m": null,
+    "open_sides": [],
+    "main_aisle_direction": "",
+    "official_height_limit_m": null,
+    "venue_manual_verified": false
+  },
+  "brand": {
+    "name": "",
+    "logo_file": "",
+    "colors": [],
+    "style_preferences": []
+  },
+  "objectives": [],
+  "exhibits": [],
+  "zones": [],
+  "budget": {
+    "ceiling_cny": null,
+    "tax_included": null,
+    "includes": []
+  },
+  "schedule": {
+    "design_due": "",
+    "move_in": "",
+    "show_open": "",
+    "move_out": ""
+  },
+  "sources": [],
+  "unknowns": []
+}
